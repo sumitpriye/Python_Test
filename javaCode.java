@@ -4,7 +4,12 @@ public static void main(string[] args)
 
 {
 
-System.out.println("Hello World")
+
+
+int  a =5;
+int b=9;
+
+int sum = a+b
 
 
 }
