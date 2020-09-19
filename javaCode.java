@@ -11,7 +11,7 @@ System.out.println("Learning HEAD Concepts in git")
 
 int  a =5;
 int b=9;
-int c=23;
+int c=25;
 
 int sum = a+b
 int  product=a*c;
